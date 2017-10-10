@@ -1,0 +1,5 @@
+C:\Users\MUSSAT\documents\visual studio 2010\Projects\clientSOAP\clientSOAP\bin\Debug\clientSOAP.exe.config
+C:\Users\MUSSAT\documents\visual studio 2010\Projects\clientSOAP\clientSOAP\bin\Debug\clientSOAP.exe
+C:\Users\MUSSAT\documents\visual studio 2010\Projects\clientSOAP\clientSOAP\bin\Debug\clientSOAP.pdb
+C:\Users\MUSSAT\documents\visual studio 2010\Projects\clientSOAP\clientSOAP\obj\x86\Debug\clientSOAP.exe
+C:\Users\MUSSAT\documents\visual studio 2010\Projects\clientSOAP\clientSOAP\obj\x86\Debug\clientSOAP.pdb

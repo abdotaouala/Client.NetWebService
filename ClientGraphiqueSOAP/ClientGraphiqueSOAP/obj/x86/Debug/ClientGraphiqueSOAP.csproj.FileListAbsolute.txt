@@ -1,0 +1,9 @@
+C:\Users\MUSSAT\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\MUSSAT\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\MUSSAT\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\MUSSAT\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\MUSSAT\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\MUSSAT\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\ClientGraphiqueSOAP.csproj.GenerateResource.Cache
+C:\Users\MUSSAT\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\MUSSAT\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\MUSSAT\documents\visual studio 2010\Projects\ClientGraphiqueSOAP\ClientGraphiqueSOAP\bin\Debug\ClientGraphiqueSOAP.exe.config
